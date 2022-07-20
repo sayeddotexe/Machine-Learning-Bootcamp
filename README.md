@@ -16,4 +16,4 @@ Learning Data Science, Data Analysis, Machine Learning (Artificial Intelligence)
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
-| 00 | [Pandas: Data Analysis ](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Database management / manipulation using Pandas library |
+| 00 | [Pandas: Data Analysis ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/00_Pandas_Data_Analysis.ipynb) | Database management / manipulation using Pandas library |
