@@ -19,4 +19,7 @@ Notebooks:
 | 00 | [Pandas: Data Analysis ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/00_Pandas_Data_Analysis.ipynb) | Database management / manipulation using Pandas library |
 | 01 | [NumPy: Fundimentals ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/01_NumPy__Fundimentals.ipynb) | Multi-Dimension matrix manipulation and calculations |
 | 02 | [Matplotlib: Plotting and Data visualisation ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/02_Matplotlib_Plotting_and_Data_Visualisation.ipynb) | Plotting and visualising different datasets |
+| 03 | [Scikit-learn: Machine Learning models ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/02_Matplotlib_Plotting_and_Data_Visualisation.ipynb) | Creating efficient Machine learning models |
+
+
 
