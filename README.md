@@ -22,7 +22,7 @@ Notebooks:
 | 02 | [Matplotlib: Plotting and Data visualisation ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/02_Matplotlib_Plotting_and_Data_Visualisation.ipynb) | Plotting and visualising different datasets |
 | 03 | [Scikit-learn: Machine Learning models ](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/03_Scikit_learn_ML_Models.ipynb) | Creating efficient Machine learning models, evaluating, improving and visualizing |
 | 04 | [Heart Disease: Classification Project](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/04_Heart_Disease_Classification.ipynb) | Project to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes |
-| 05 | [Bulldozer: Price Regression Project](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/05_Bulldozer_price_regression.ipynb) | Project to build a machine learning model capable of predicting the saleprice of bulldozers given time-series data |
+| 05 | [Bulldozer: Price Regression Project](https://github.com/sayeddotexe/Machine-Learning-Bootcamp/blob/main/05_Bulldozer_price_regression.ipynb) | Project to build a machine learning model capable of predicting the sale price of bulldozers given time-series data |
 
 
 
