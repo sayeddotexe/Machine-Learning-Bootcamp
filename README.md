@@ -12,6 +12,7 @@ Learning Data Science, Data Analysis, Machine Learning (Artificial Intelligence)
 * Pandas - For analysis and manipulation of tabular data in Dataframes i.e importing CSV's.
 * Matplotlib - For data visualisation and graphical plotting of data.
 * Scikit-learn - Tools for machine learning and statistical modelling i.e splitting data into test and training data
+* Seaborn - Python data visualization library based on matplotlib.It provides a high-level interface for drawing attractive and informative statistical graphics
 
 Notebooks:
 | Number | Notebook | Description |
